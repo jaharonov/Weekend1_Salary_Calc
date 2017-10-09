@@ -11,3 +11,6 @@ thead {
   border-color: gray;
   border-collapse: collapse;
 }
+tbody {
+  color: gray;
+}
